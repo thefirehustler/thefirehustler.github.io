@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: #ca7f85;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -49,13 +50,14 @@
 }
 
 .page__content {
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -220,7 +222,6 @@
   text-transform: uppercase;
 }
 
-
 /*
    Page meta
    ========================================================================== */
@@ -245,7 +246,6 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
 
 /*
    Page taxonomy
@@ -275,7 +275,6 @@
     color: $link-color-hover;
   }
 }
-
 
 /*
    Comments
@@ -371,7 +370,6 @@
     text-decoration: none;
   }
 }
-
 
 /*
    Related
