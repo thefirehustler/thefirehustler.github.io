@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: 'Blog Posts'
+    url: /posts/
+
   - title: 'Net Worth'
     url: /net-worth/
 
@@ -8,12 +11,3 @@ main:
 
   - title: 'Instagram'
     url: /instagram/
-
-  - title: 'CV'
-    url: /cv/
-
-  - title: 'Blog Posts'
-    url: /year-archive/
-
-  - title: 'Guide'
-    url: /markdown/
